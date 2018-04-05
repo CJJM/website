@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "blog using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJJM/website.git"
+  },
+  "author": "Connor Maloney <cjjmaloney@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CJJM/website/issues"
+  },
+  "homepage": "https://github.com/CJJM/website#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
